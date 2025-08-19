@@ -3,6 +3,7 @@ setup.py
 stockhelper/__init__.py
 stockhelper/core.py
 stockhelper/fetchers.py
+stockhelper/plot.py
 stockhelper/storage.py
 stockhelper/utils.py
 stockhelper.egg-info/PKG-INFO
