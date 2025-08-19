@@ -1,0 +1,2 @@
+pip uninstall stock_data_lib
+pip install -e .

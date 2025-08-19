@@ -1,0 +1,12 @@
+README.md
+setup.py
+stockhelper/__init__.py
+stockhelper/core.py
+stockhelper/fetchers.py
+stockhelper/storage.py
+stockhelper/utils.py
+stockhelper.egg-info/PKG-INFO
+stockhelper.egg-info/SOURCES.txt
+stockhelper.egg-info/dependency_links.txt
+stockhelper.egg-info/requires.txt
+stockhelper.egg-info/top_level.txt
